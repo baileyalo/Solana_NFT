@@ -3,7 +3,7 @@
 
 
 ### NFT Meta data: 
-
+```javascript
 {
     "name": "Image 0",
     "description": "Itachi",
@@ -21,7 +21,7 @@
         ]
     }
 }
-
+```
 ### Clone Metaplex:
 
 - git clone https://github.com/metaplex-foundation/metaplex.git
