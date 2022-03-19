@@ -31,7 +31,7 @@ are held in Phantom wallet that can be seen as Collectibles.
 - yarn install
 - yarn bootstrap
 - yarn build
-- yarn start
+
 
 ![img1](https://user-images.githubusercontent.com/90293555/159110039-e497657c-4a81-4c4d-94f6-22fad893c877.jpg)
 
@@ -65,6 +65,9 @@ are held in Phantom wallet that can be seen as Collectibles.
 
 ![img 9](https://user-images.githubusercontent.com/90293555/159110083-9fdd8325-c78c-41d8-8483-f171052dfee9.jpg)
 
+
+
+ Web interface - to Mint 
 
 
 ![img10](https://user-images.githubusercontent.com/90293555/159110085-afd898d2-1f30-4b06-899b-9d473749dc22.jpg)
