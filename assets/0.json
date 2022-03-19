@@ -1,9 +1,3 @@
-# Solana_NFTs_using_Metaplex
-
-
-
-### NFT Meta data: 
-
 {
     "name": "Image 0",
     "description": "Itachi",
@@ -21,14 +15,3 @@
         ]
     }
 }
-
-### Clone Metaplex:
-
-- git clone https://github.com/metaplex-foundation/metaplex.git
-- cd metaplex/js
-- yarn install
-- yarn bootstrap
-- yarn build
-- yarn start
-
-
