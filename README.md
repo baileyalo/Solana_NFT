@@ -62,12 +62,13 @@ are held in Phantom wallet that can be seen as Collectibles.
 ![img8](https://user-images.githubusercontent.com/90293555/159110079-ce6f197e-ac68-4962-8786-4d51901eb65b.jpg)
 
 
+ Web interface - to Mint 
 
 ![img 9](https://user-images.githubusercontent.com/90293555/159110083-9fdd8325-c78c-41d8-8483-f171052dfee9.jpg)
 
 
 
- Web interface - to Mint 
+
 
 
 ![img10](https://user-images.githubusercontent.com/90293555/159110085-afd898d2-1f30-4b06-899b-9d473749dc22.jpg)
