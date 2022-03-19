@@ -1,10 +1,11 @@
-# Solana_NFTs_using_Metaplex
+# Solana_NFTs_Using_Metaplex
 
-This project is using the Solana CLI to create NFT token that are minted using Metaplex and these Tokens 
+This project is using the Solana CLI to create NFT token that are minted using Metaplex and these Tokens
 are held in Phantom wallet that can be seen as Collectibles.
 
 
-### NFT Meta data: 
+### NFT Meta Data:
+
 ```javascript
 {
     "name": "Image 0",
@@ -62,7 +63,7 @@ are held in Phantom wallet that can be seen as Collectibles.
 ![img8](https://user-images.githubusercontent.com/90293555/159110079-ce6f197e-ac68-4962-8786-4d51901eb65b.jpg)
 
 
- Web interface - to Mint 
+ Web interface - to Mint
 
 ![img 9](https://user-images.githubusercontent.com/90293555/159110083-9fdd8325-c78c-41d8-8483-f171052dfee9.jpg)
 
